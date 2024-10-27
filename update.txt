@@ -1,0 +1,14 @@
+{
+  "versionCode": 10,
+  "versionName": "1.2.4 ",
+  "Msg": "New update is available, to continue in our app please update it.
+
+What's new:
+- Performance Improvements.
+- Bug Fixes.
+- New Features introduced.
+- Others minor changes.
+
+Thanks for using",
+  "downloadLink": "https://whatsapp.com/channel/0029Vaj1hl1Lo4hksSXY0U2t"
+  }
